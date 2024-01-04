@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration:none;
+    list-style:none;
+    }
+
+
+.button {
+    padding: 28px 39px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.button i{
+    color:#335B6B;
+    margin-left: 10px;
+    transition: all 0.3s ease-in-out;
+font-size:19px;
+}
+.font--yellowtail {
+    font-family: 'Yellowtail', cursive;
+}
+.title__small{
+    color: #7EB693;
+    font-family: 'Yellowtail', cursive;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.title__big{
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+}
